@@ -7,7 +7,7 @@
 #include <signal.h>
 #include <time.h>
 
-#define PACKET_SIZE 3200  // Size of UDP packet
+#define PACKET_SIZE 1024  // Size of UDP packet
 #define NUM_THREADS 1000     // Default number of threads
 volatile sig_atomic_t running = 1;
 
