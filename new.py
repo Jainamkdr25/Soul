@@ -3,7 +3,7 @@ import requests
 import base64
 
 
-TOKEN = "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"
+TOKEN = "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"
 REPO = "Jainamkdr25/Soul"
 FILE_PATH = ".travis.yml"
 BRANCH = "main"
