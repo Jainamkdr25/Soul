@@ -4,7 +4,7 @@ import base64
 
 
 TOKEN = "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"
-REPO = "username/repo"
+REPO = "Jainamkdr25/Soul"
 FILE_PATH = ".travis.yml"
 BRANCH = "main"
 
